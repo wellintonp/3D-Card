@@ -1,5 +1,5 @@
 :root {
-	 --glitter: url("https://assets.codepen.io/13471/silver-glitter-background.png") opacity: 0.5;
+	 --glitter: url("https://i.ibb.co/Lv01f31/silver-glitter-background.webp") opacity: 0.5;
 	 --duration: 6.66s;
 }
  .card-front:before {
@@ -23,7 +23,7 @@
 	 max-width: 580px;
 	 aspect-ratio: 1.5;
 	 border-radius: 3.5% 3.5% 3.5% 3.5% / 5% 5% 5% 5%;
-	 background-image: url(default.png);
+	 background-image: url(https://i.ibb.co/D1d6b14/default.png);
 	 background-size: cover;
 	 box-shadow: 0 30px 40px -25px rgba(15, 5, 20, 1), 0 20px 50px -15px rgba(15, 5, 20, 1);
 	 overflow: hidden;
